@@ -36,9 +36,6 @@ Welcome to the source code for my personal portfolio — a creative space showca
 │ └── carousel.js
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
